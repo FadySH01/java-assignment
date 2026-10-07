@@ -1,0 +1,8 @@
+.idea/
+out/
+*.class
+*.iml
+.DS_Store
+Fady.txt
+scores.txt
+TrillionaireScore.txt
